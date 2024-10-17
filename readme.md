@@ -1,4 +1,4 @@
-#                                        PDF Generation and Email Automation
+#                        Data Analysis, PDF Generation and Email Automation
 
 ## What does the tool do ?
 This project automates the process of loading data from various sources, 
