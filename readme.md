@@ -20,6 +20,9 @@ The solution is built with Python and uses libraries such as matolib and pandas.
 - Email Sending: Update the send_pdf_via_email.py script to configure the recipient email, subject, and body.
 - run the application using <python app/app.py> which will Load data from various sources, perform analysis and generate a PDF report and send the generated PDF via email. Please feel free running manually other files separtly which are mentioned above.
 
+---
+
 Go and work your magic ! 🪄
 
-# # # For further information or contributions, please contact Alisa Mitchkov at alisamitchikov@gmail.com.
+---
+* For further information or contributions, please contact Alisa Mitchkov at alisamitchikov@gmail.com.*
